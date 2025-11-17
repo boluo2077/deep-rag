@@ -1,0 +1,73 @@
+.
+├── 2023-Market-Layout
+│  ├── East-China-Region
+│  │  ├── 1-96.md：Shanghai, Jiangsu, Zhejiang, Shandong, Fujian: retail network, flagship stores, revenue, local strategies, consumer profiles, operational highlights
+│  │  └── 97-144.md：Anhui, Jiangxi, regional synthesis: emerging markets, growth, retail footprint, logistics, consolidated financials, strategic balance
+│  ├── North-China-Region
+│  │  ├── 1-44.md：Six provinces, tailored strategies, retail distribution, consumer demographics, market opportunities, growth potential, logistics challenges, brand positioning.
+│  │  └── 45-117.md：Store formats, network segmentation, retail operations, staff training, inventory management, financial breakdown, revenue drivers, profitability, strategic outlook.
+│  ├── South-China-Region.md：$830M revenue, 180 stores, 5 provinces; retail, logistics, marketing, HR; Veridia leads, diverse strategies, growth focus
+│  └── Southwest-Region
+│     ├── 1-83.md：regional strategy, store network, province-specific market, retail formats, financials, growth plans
+│     └── 86-150.md：retail operations, staffing, merchandising, revenue breakdown, product category performance, profitability
+│
+├── 2024-Market-Layout
+│  ├── East-China-Region
+│  │  ├── 1-68.md：strategy, store types, revenue, key cities, innovation, e-commerce, expansion, partnerships
+│  │  └── 69-120.md：network management, SOPs, staff training, incentives, financials, revenue streams, profitability drivers
+│  ├── North-China-Region
+│  │  ├── 1-92.md：Metropolitan, coastal, industrial, and cultural provinces: premium retail, flagship stores, high revenue, corporate sales, tourism, pragmatic and affluent consumers, tailored marketing, strong brand positioning.
+│  │  └── 93-137.md：Frontier and agricultural provinces: emerging market, rapid growth, O2O integration, government contracts, stable rural sales, price sensitivity, community-based retail, untapped potential, foundational brand building.
+│  ├── South-China-Region
+│  │  ├── 1-77.md：regional strategy, market drivers, store network, Veridia, Azurea, Celestia profiles, revenue, challenges
+│  │  └── 78-135.md：Solara, Terrania profiles, operations, channel management, financials, future recommendations
+│  └── Southwest-Region
+│     ├── 1-79.md：provincial market, store, revenue, consumer, challenge, opportunity analysis
+│     └── 80-111.md：retail network, store type, performance, financials, strategy, future plan
+│
+├── Product-Line-A-Smartwatch-Series
+│  ├── SW-1300-Youth
+│  │  ├── 1-79.md：youth-focused wearable, OLED display, battery life, power management, charging
+│  │  └── 80-134.md：durability, IP65, materials, price, packaging, sales channels
+│  ├── SW-1500-Sport.md：Athlete-focused, rugged, 36h battery, IP68, TFT display, $999
+│  ├── SW-1800-Business
+│  │  ├── 1-77.md：professional-focused design, high-clarity IPS display, business watch faces, adaptive brightness, 48h battery, power optimization, rapid safe charging
+│  │  └── 78-139.md：IP67 durability, premium metal chassis, fluoroelastomer strap, $1899 price, longevity, warranty, expert support
+│  ├── SW-2100-Flagship
+│  │  ├── 1-122.md：luxury titanium build, sapphire crystal, haptic crown, AMOLED display, adaptive refresh, 72h battery, S-Pro Fusion chip, IP68, advanced health sensors, ECG, SpO2, sleep, fall detection
+│  │  └── 123-170.md：multi-band GNSS, diverse workouts, pro fitness metrics, $2999 price, premium unboxing, full specs table
+│  └── SW-2200-Premium
+│     ├── 1-64.md：Design philosophy, advanced materials, titanium, sapphire, premium straps, display technology
+│     └── 65-153.md：Processor, battery, durability, sensors, connectivity, water resistance, pricing, included accessories
+│
+├── Product-Line-B-Smart-Earbuds-Series
+│  ├── AE-Lite-Lightweight
+│  │  ├── 1-41.md：passive noise reduction, ergonomic fit, acoustic materials, 20dB isolation
+│  │  └── 42-139.md：bluetooth 5.0, battery 18h, fast charging, $499 value, specs, accessories
+│  ├── AE-Max-Master.md：50dB ANC, spatial audio, 40h battery, premium build, $1999
+│  ├── AE-Pro-Flagship
+│  │  ├── 1-99.md：hybrid anc, adaptive noise control, multiple modes, bluetooth 5.3, multipoint, le audio, auracast, 30h battery, fast & wireless charging
+│  │  └── 100-206.md：beryllium drivers, hi-res codecs, eq, soundid, spatial audio, ergonomic design, ip54, specs, accessories, premium price
+│  └── AE-Sport-Athletic.md：Bone conduction, waterproof, long battery, secure fit, athlete safety
+│
+├── R&D-Center-Teams
+│  ├── Audio-Algorithm-Team.md：Immersive 3D audio, personalized HRTF, AI noise reduction, speech enhancement
+│  ├── Display-Tech-Team
+│  │  ├── 1-37.md：flexible screens: foldable, rollable, stretchable; crease, hinge, ultra-thin glass, polymer, OLED stack, encapsulation, substrate, stress, durability
+│  │  └── 40-90.md：micro-displays: micro-OLED, micro-LED; pixel density, luminance, power, mass transfer, quantum dots, backplane, materials, metrology, manufacturing, prototyping
+│  ├── Power-Management-Team.md：Fast-charging tech, battery materials, thermal systems, power electronics, low-power algorithms, predictive optimization, software efficiency, component profiling
+│  └── Sensor-Team.md：Biosensor innovation, environmental monitoring, sensor fusion, AI integration, predictive health
+│
+└── Supplier-Partnership-Records
+   ├── Audio-Supplier-SoundTech
+   │  ├── 1-23.md：multi-year agreement for high-performance audio components, supplier expertise in acoustic engineering, advanced transducer and MEMS microphone technology, automated manufacturing, rigorous quality control
+   │  └── 24-158.md：detailed specifications for speaker and microphone modules, technical features of dynamic drivers and MEMS microphones, engineering collaboration, supply chain protocols, quality assurance, strategic partnership terms, future co-development in audio processing and materials
+   ├── Battery-Supplier-PowerCell
+   │  ├── 1-61.md：custom lithium polymer battery specs, safety, performance, supply chain integration
+   │  └── 62-110.md：joint QA, logistics, engineering, historical metrics, future tech, sustainability
+   ├── Chip-Supplier-UniChip
+   │  ├── 1-56.md：supplier profile, partnership scope, rationale, technology strengths
+   │  └── 57-159.md：chip series details, processor features, collaboration, supply chain, future plans
+   └── Display-Supplier-CrystalVision
+      ├── 1-60.md：partnership evolution, supplier expertise, manufacturing, co-development milestones
+      └── 61-126.md：display types, technical specs, quality, product impact, future tech roadmap

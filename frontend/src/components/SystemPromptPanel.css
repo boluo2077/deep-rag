@@ -1,0 +1,183 @@
+.sp-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  backdrop-filter: blur(4px);
+}
+
+.sp-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  width: 95%;
+  max-width: 1400px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+  animation: slideIn 0.3s ease-out;
+}
+
+.sp-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.sp-header h2 {
+  margin: 0;
+  font-size: 1.5rem;
+  color: var(--text);
+}
+
+.sp-content {
+  flex: 1;
+  overflow: auto;
+  padding: 1.5rem;
+}
+
+.sp-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  gap: 1rem;
+  color: var(--text-secondary);
+}
+
+.sp-text {
+  font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.sp-text pre {
+  margin: 0;
+  white-space: pre;
+  color: var(--text);
+  background: var(--surface-light);
+  padding: 1.5rem;
+  border-radius: 8px;
+  overflow: auto;
+}
+
+.sp-markdown {
+  color: var(--text);
+  line-height: 1.8;
+  white-space: pre;
+  overflow: auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+.sp-markdown h1,
+.sp-markdown h2,
+.sp-markdown h3 {
+  color: #4a9eff;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.sp-markdown h2 {
+  font-size: 1.5rem;
+  border-bottom: 2px solid rgba(74, 158, 255, 0.3);
+  padding-bottom: 0.5rem;
+}
+
+.sp-markdown h3 {
+  font-size: 1.2rem;
+}
+
+.sp-markdown p {
+  margin: 0.75rem 0;
+}
+
+.sp-markdown ul,
+.sp-markdown ol {
+  margin: 0.75rem 0;
+  padding-left: 2rem;
+}
+
+.sp-markdown li {
+  margin: 0.5rem 0;
+}
+
+.sp-markdown code {
+  background: rgba(74, 158, 255, 0.1);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
+  font-size: 0.9em;
+  color: #64b5f6;
+}
+
+.sp-markdown pre {
+  background: var(--surface-light);
+  padding: 1rem;
+  border-radius: 8px;
+  overflow: auto;
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+}
+
+.sp-markdown pre code {
+  background: none;
+  padding: 0;
+  color: var(--text);
+}
+
+.sp-markdown strong {
+  color: #fff;
+  font-weight: 600;
+}
+
+.sp-markdown blockquote {
+  border-left: 4px solid #4a9eff;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  color: var(--text-secondary);
+}
+
+.sp-content::-webkit-scrollbar,
+.sp-markdown::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+.sp-content::-webkit-scrollbar-track,
+.sp-markdown::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.sp-content::-webkit-scrollbar-thumb,
+.sp-markdown::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+}
+
+.sp-content::-webkit-scrollbar-thumb:hover,
+.sp-markdown::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "Product-Line-B-Smart-Earbuds-Series/AE-Sport-Athletic.md": "Bone conduction, waterproof, long battery, secure fit, athlete safety",
+  "Product-Line-B-Smart-Earbuds-Series/AE-Max-Master.md": "50dB ANC, spatial audio, 40h battery, premium build, $1999",
+  "Product-Line-B-Smart-Earbuds-Series/AE-Lite-Lightweight.md": [
+    {
+      "start": 1,
+      "end": 41,
+      "summary": "passive noise reduction, ergonomic fit, acoustic materials, 20dB isolation"
+    },
+    {
+      "start": 42,
+      "end": 139,
+      "summary": "bluetooth 5.0, battery 18h, fast charging, $499 value, specs, accessories"
+    }
+  ],
+  "Supplier-Partnership-Records/Battery-Supplier-PowerCell.md": [
+    {
+      "start": 1,
+      "end": 61,
+      "summary": "custom lithium polymer battery specs, safety, performance, supply chain integration"
+    },
+    {
+      "start": 62,
+      "end": 110,
+      "summary": "joint QA, logistics, engineering, historical metrics, future tech, sustainability"
+    }
+  ],
+  "Supplier-Partnership-Records/Chip-Supplier-UniChip.md": [
+    {
+      "start": 1,
+      "end": 56,
+      "summary": "supplier profile, partnership scope, rationale, technology strengths"
+    },
+    {
+      "start": 57,
+      "end": 159,
+      "summary": "chip series details, processor features, collaboration, supply chain, future plans"
+    }
+  ],
+  "Supplier-Partnership-Records/Display-Supplier-CrystalVision.md": [
+    {
+      "start": 1,
+      "end": 60,
+      "summary": "partnership evolution, supplier expertise, manufacturing, co-development milestones"
+    },
+    {
+      "start": 61,
+      "end": 126,
+      "summary": "display types, technical specs, quality, product impact, future tech roadmap"
+    }
+  ],
+  "Product-Line-B-Smart-Earbuds-Series/AE-Pro-Flagship.md": [
+    {
+      "start": 1,
+      "end": 99,
+      "summary": "hybrid anc, adaptive noise control, multiple modes, bluetooth 5.3, multipoint, le audio, auracast, 30h battery, fast & wireless charging"
+    },
+    {
+      "start": 100,
+      "end": 206,
+      "summary": "beryllium drivers, hi-res codecs, eq, soundid, spatial audio, ergonomic design, ip54, specs, accessories, premium price"
+    }
+  ],
+  "R&D-Center-Teams/Power-Management-Team.md": "Fast-charging tech, battery materials, thermal systems, power electronics, low-power algorithms, predictive optimization, software efficiency, component profiling",
+  "Supplier-Partnership-Records/Audio-Supplier-SoundTech.md": [
+    {
+      "start": 1,
+      "end": 23,
+      "summary": "multi-year agreement for high-performance audio components, supplier expertise in acoustic engineering, advanced transducer and MEMS microphone technology, automated manufacturing, rigorous quality control"
+    },
+    {
+      "start": 24,
+      "end": 158,
+      "summary": "detailed specifications for speaker and microphone modules, technical features of dynamic drivers and MEMS microphones, engineering collaboration, supply chain protocols, quality assurance, strategic partnership terms, future co-development in audio processing and materials"
+    }
+  ],
+  "R&D-Center-Teams/Sensor-Team.md": "Biosensor innovation, environmental monitoring, sensor fusion, AI integration, predictive health",
+  "R&D-Center-Teams/Audio-Algorithm-Team.md": "Immersive 3D audio, personalized HRTF, AI noise reduction, speech enhancement",
+  "R&D-Center-Teams/Display-Tech-Team.md": [
+    {
+      "start": 1,
+      "end": 37,
+      "summary": "flexible screens: foldable, rollable, stretchable; crease, hinge, ultra-thin glass, polymer, OLED stack, encapsulation, substrate, stress, durability"
+    },
+    {
+      "start": 40,
+      "end": 90,
+      "summary": "micro-displays: micro-OLED, micro-LED; pixel density, luminance, power, mass transfer, quantum dots, backplane, materials, metrology, manufacturing, prototyping"
+    }
+  ],
+  "2024-Market-Layout/Southwest-Region.md": [
+    {
+      "start": 1,
+      "end": 79,
+      "summary": "provincial market, store, revenue, consumer, challenge, opportunity analysis"
+    },
+    {
+      "start": 80,
+      "end": 111,
+      "summary": "retail network, store type, performance, financials, strategy, future plan"
+    }
+  ],
+  "2024-Market-Layout/North-China-Region.md": [
+    {
+      "start": 1,
+      "end": 92,
+      "summary": "Metropolitan, coastal, industrial, and cultural provinces: premium retail, flagship stores, high revenue, corporate sales, tourism, pragmatic and affluent consumers, tailored marketing, strong brand positioning."
+    },
+    {
+      "start": 93,
+      "end": 137,
+      "summary": "Frontier and agricultural provinces: emerging market, rapid growth, O2O integration, government contracts, stable rural sales, price sensitivity, community-based retail, untapped potential, foundational brand building."
+    }
+  ],
+  "2024-Market-Layout/South-China-Region.md": [
+    {
+      "start": 1,
+      "end": 77,
+      "summary": "regional strategy, market drivers, store network, Veridia, Azurea, Celestia profiles, revenue, challenges"
+    },
+    {
+      "start": 78,
+      "end": 135,
+      "summary": "Solara, Terrania profiles, operations, channel management, financials, future recommendations"
+    }
+  ],
+  "2023-Market-Layout/North-China-Region.md": [
+    {
+      "start": 1,
+      "end": 44,
+      "summary": "Six provinces, tailored strategies, retail distribution, consumer demographics, market opportunities, growth potential, logistics challenges, brand positioning."
+    },
+    {
+      "start": 45,
+      "end": 117,
+      "summary": "Store formats, network segmentation, retail operations, staff training, inventory management, financial breakdown, revenue drivers, profitability, strategic outlook."
+    }
+  ],
+  "2024-Market-Layout/East-China-Region.md": [
+    {
+      "start": 1,
+      "end": 68,
+      "summary": "strategy, store types, revenue, key cities, innovation, e-commerce, expansion, partnerships"
+    },
+    {
+      "start": 69,
+      "end": 120,
+      "summary": "network management, SOPs, staff training, incentives, financials, revenue streams, profitability drivers"
+    }
+  ],
+  "2023-Market-Layout/Southwest-Region.md": [
+    {
+      "start": 1,
+      "end": 83,
+      "summary": "regional strategy, store network, province-specific market, retail formats, financials, growth plans"
+    },
+    {
+      "start": 86,
+      "end": 150,
+      "summary": "retail operations, staffing, merchandising, revenue breakdown, product category performance, profitability"
+    }
+  ],
+  "2023-Market-Layout/East-China-Region.md": [
+    {
+      "start": 1,
+      "end": 96,
+      "summary": "Shanghai, Jiangsu, Zhejiang, Shandong, Fujian: retail network, flagship stores, revenue, local strategies, consumer profiles, operational highlights"
+    },
+    {
+      "start": 97,
+      "end": 144,
+      "summary": "Anhui, Jiangxi, regional synthesis: emerging markets, growth, retail footprint, logistics, consolidated financials, strategic balance"
+    }
+  ],
+  "2023-Market-Layout/South-China-Region.md": "$830M revenue, 180 stores, 5 provinces; retail, logistics, marketing, HR; Veridia leads, diverse strategies, growth focus",
+  "Product-Line-A-Smartwatch-Series/SW-1500-Sport.md": "Athlete-focused, rugged, 36h battery, IP68, TFT display, $999",
+  "Product-Line-A-Smartwatch-Series/SW-2200-Premium.md": [
+    {
+      "start": 1,
+      "end": 64,
+      "summary": "Design philosophy, advanced materials, titanium, sapphire, premium straps, display technology"
+    },
+    {
+      "start": 65,
+      "end": 153,
+      "summary": "Processor, battery, durability, sensors, connectivity, water resistance, pricing, included accessories"
+    }
+  ],
+  "Product-Line-A-Smartwatch-Series/SW-1300-Youth.md": [
+    {
+      "start": 1,
+      "end": 79,
+      "summary": "youth-focused wearable, OLED display, battery life, power management, charging"
+    },
+    {
+      "start": 80,
+      "end": 134,
+      "summary": "durability, IP65, materials, price, packaging, sales channels"
+    }
+  ],
+  "Product-Line-A-Smartwatch-Series/SW-2100-Flagship.md": [
+    {
+      "start": 1,
+      "end": 122,
+      "summary": "luxury titanium build, sapphire crystal, haptic crown, AMOLED display, adaptive refresh, 72h battery, S-Pro Fusion chip, IP68, advanced health sensors, ECG, SpO2, sleep, fall detection"
+    },
+    {
+      "start": 123,
+      "end": 170,
+      "summary": "multi-band GNSS, diverse workouts, pro fitness metrics, $2999 price, premium unboxing, full specs table"
+    }
+  ],
+  "Product-Line-A-Smartwatch-Series/SW-1800-Business.md": [
+    {
+      "start": 1,
+      "end": 77,
+      "summary": "professional-focused design, high-clarity IPS display, business watch faces, adaptive brightness, 48h battery, power optimization, rapid safe charging"
+    },
+    {
+      "start": 78,
+      "end": 139,
+      "summary": "IP67 durability, premium metal chassis, fluoroelastomer strap, $1899 price, longevity, warranty, expert support"
+    }
+  ]
+}

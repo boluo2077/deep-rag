@@ -1,0 +1,37 @@
+.
+├─ Product-Line-A-Smartwatch-Series/: Contains specs and positioning for 5 smartwatch models
+│  ├─ SW-2100-Flagship.md: 2.1" AMOLED screen, 72hr battery, IP68 waterproof, $2999
+│  ├─ SW-1800-Business.md: 1.8" LCD screen, 48hr battery, IP67 waterproof, $1899
+│  ├─ SW-1500-Sport.md: 1.5" TFT screen, 36hr battery, IP68 waterproof, $999
+│  ├─ SW-2200-Premium.md: 2.2" AMOLED screen, 96hr battery, IP69K waterproof, $4999
+│  └─ SW-1300-Youth.md: 1.3" OLED screen, 24hr battery, IP65 waterproof, $599
+│
+├─ Product-Line-B-Smart-Earbuds-Series/: Contains audio quality and noise cancellation tech for 4 earbud models
+│  ├─ AE-Pro-Flagship.md: 45dB active noise cancellation, Bluetooth 5.3, 30hr battery, $1299
+│  ├─ AE-Lite-Lightweight.md: 20dB passive noise reduction, Bluetooth 5.0, 18hr battery, $499
+│  ├─ AE-Sport-Athletic.md: IPX7 waterproof, bone conduction tech, 12hr battery, $799
+│  └─ AE-Max-Master.md: 50dB active noise cancellation, spatial audio, 40hr battery, $1999
+│
+├─ 2023-Market-Layout/: Channel and performance data for each sales region
+│  ├─ East-China-Region.md: Covers 7 provinces, 320 retail stores, $1.28B annual revenue
+│  ├─ South-China-Region.md: Covers 5 provinces, 180 retail stores, $830M annual revenue
+│  ├─ North-China-Region.md: Covers 6 provinces, 250 retail stores, $1.05B annual revenue
+│  └─ Southwest-Region.md: Covers 4 provinces, 95 retail stores, $420M annual revenue
+│
+├─ 2024-Market-Layout/: Continued domestic market expansion channel data
+│  ├─ East-China-Region.md: Covers 7 provinces, 385 retail stores, $1.56B annual revenue
+│  ├─ South-China-Region.md: Covers 5 provinces, 220 retail stores, $1.01B annual revenue
+│  ├─ North-China-Region.md: Covers 6 provinces, 290 retail stores, $1.28B annual revenue
+│  └─ Southwest-Region.md: Covers 4 provinces, 128 retail stores, $570M annual revenue
+│
+├─ Supplier-Partnership-Records/: Documents collaboration info with core suppliers
+│  ├─ Display-Supplier-CrystalVision.md: Supplies AMOLED and OLED screens, 8-year partnership
+│  ├─ Chip-Supplier-UniChip.md: Supplies Bluetooth chips and processors, 5-year partnership
+│  ├─ Battery-Supplier-PowerCell.md: Supplies lithium polymer batteries, 6-year partnership
+│  └─ Audio-Supplier-SoundTech.md: Supplies speakers and microphone modules, 3-year partnership
+│
+└─ R&D-Center-Teams/: Research directions for each technical team
+   ├─ Display-Tech-Team.md: Developing flexible screens and micro-display technology
+   ├─ Power-Management-Team.md: Developing fast-charging tech and low-power algorithms
+   ├─ Audio-Algorithm-Team.md: Developing 3D audio effects and AI noise reduction algorithms
+   └─ Sensor-Team.md: Developing biosensors and environmental monitoring sensors
